@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Teko:wght@500&display=swap');
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#title{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 0;
+}
+#undertitle{
+    text-align: center;
+}
+
+
+.nav-link{
+    font-size: 30px;
+    margin-right: 30px;
+    font-family: 'Teko', sans-serif;
+}
+
+
