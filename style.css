@@ -22,7 +22,8 @@
 
 .nav-link{
     font-size: 30px;
-    margin-right: 60px;
+    margin-right: 100px;
+    margin-top: 1px;
     font-family: 'Teko', sans-serif;
 }
 
@@ -35,11 +36,14 @@ body{
     font-size: 55px;
     color: white;
     font-family: 'Bebas Neue', cursive;
+    margin-left: 15px;
 }
 
 .para{
     color: white;
     font-size: 20px;
+    margin-left: 5px;
+    
 }
 
 .kirkman{
@@ -55,4 +59,13 @@ body{
     text-align: right;
     margin-right: 75px;
     color: white;
+}
+
+.nav{
+border: 5px solid black;
+}
+
+#home{
+    border: solid 5px white;
+    width: fit-content;
 }

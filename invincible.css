@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Teko:wght@500&display=swap');
+
 *{
     margin: 0%;
     padding: 0%;
@@ -6,3 +9,18 @@ body{
     background-image: url(file:///C:/Users/Jackson/Downloads/image0.png);
     background-position: cover;
 }
+#header{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+}
+
+.nav-link{
+    font-size: 30px;
+    margin-right: 100px;
+    margin-top: 1px;
+    font-family: 'Teko', sans-serif;}
+
+    .nav-item{
+        color: black;
+    }
