@@ -41,3 +41,18 @@ body{
     color: white;
     font-size: 20px;
 }
+
+.kirkman{
+    width: 200px;
+    height: auto;
+    float: right;
+    margin-right:30px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.caption{
+    text-align: right;
+    margin-right: 75px;
+    color: white;
+}
