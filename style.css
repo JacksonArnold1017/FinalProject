@@ -64,7 +64,7 @@ margin-bottom: 10px;
 font-size: 30px;
     }
     
-    bod{
+    body{
     background: rgb(0,0,0);
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(20,31,107,1) 48%, rgba(0,0,0,1) 100%);
 }
