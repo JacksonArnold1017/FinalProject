@@ -35,6 +35,7 @@ h1,h2,h3,h4{
         0 0.07em 0.07em black,
         -0.07em 0 0.07em black,
         0 -0.07em 0.07em black;
+        font-size: 50px;
 }
 
 .nav-link{
@@ -151,3 +152,6 @@ p{
 
 
 
+#villain{
+    font-size: 40px;
+}
