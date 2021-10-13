@@ -73,19 +73,13 @@ font-size: 30px;
     margin-bottom: 5px;
 }
 
-.para{
-    color: white;
-    font-size: 20px;
-    margin-left: 5px;
-    
-}
 
 .kirkman{
     width: 200px;
     height: auto;
     float: right;
     margin-right:30px;
-    margin-left: 0px;
+    margin-left: 50px;
     margin-top: 0px;
 }
 
@@ -136,13 +130,7 @@ p{
     font-size: 50px;
 }
 
-.paragraph{
-    color: black;
-    font-size: 20px;
-    margin-bottom: 4px;
-    margin-left: 5px;
-    font-family: 'Rubik', sans-serif;
-}
+
 .photo{
     width: 250px;
     height: auto;
@@ -156,8 +144,8 @@ p{
 }
 
 #twdbackground{
-    background-image: url(../FinalProject/Images/carl-background.jpg);
-    
+    background-image: url(../FinalProject/Images/carl-background2.jpg);
+    background-position: center;
     overflow: scroll;
     background-repeat: no-repeat;
     position: relative;
