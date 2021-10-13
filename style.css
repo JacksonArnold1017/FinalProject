@@ -28,7 +28,7 @@ h1{
 }
 
 
-h1,h2,h3{
+h1,h2,h3,h4{
     color: white;
     text-shadow:
         0.07em 0 0.07em black,
@@ -125,8 +125,11 @@ p{
 }
 
 #invincible-body{
-    background-image: url(Images/mark.png);
-    background-position: cover;
+    background-image: url(Images/invincible-background2.png);
+    background-position: center;
+    overflow: scroll;
+    background-repeat: no-repeat;
+    position: relative;
 }
 
 .header{
@@ -141,9 +144,10 @@ p{
     font-family: 'Rubik', sans-serif;
 }
 .photo{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: auto;
+    margin-bottom: 20px;
 }
-#carouselcontrols{
-    width: fit-content;
-}
+
+
+
