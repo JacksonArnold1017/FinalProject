@@ -140,7 +140,7 @@ p{
 
 
 #villain{
-    font-size: 40px;
+    font-size: 35px;
 }
 
 #twdbackground{
@@ -170,4 +170,8 @@ p{
     overflow: scroll;
     position: relative;
     
+}
+#forge{
+    width: auto;
+    height: 300px;
 }
