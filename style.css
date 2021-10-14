@@ -44,13 +44,6 @@ h1,h2,h3,h4{
     font-family: 'Teko', sans-serif;
 }
 
-    
-.transparent{ 
-    background-color: rgba(255, 255, 255, .85);
-    width: fit-content;
-    border: black 5px solid;
-    margin-bottom: 5px; 
-}
 
 .career-nav{
 border: solid 5px black;
@@ -174,4 +167,11 @@ p{
 #forge{
     width: auto;
     height: 300px;
+}
+
+section{
+    background-color: rgba(255, 255, 255, .85);
+    width: fit-content;
+    border: black 5px solid;
+    margin-bottom: 5px; 
 }
