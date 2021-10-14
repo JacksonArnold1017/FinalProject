@@ -46,13 +46,7 @@ h1,h2,h3,h4,#pagetitle{
 }
 
 
-.career-nav{
-border: solid 5px black;
-text-align: center;
-background: #fff;
-margin-bottom: 10px;
-font-size: 30px;
-    }
+
     
     body{
     background: rgb(0,0,0);
@@ -135,6 +129,7 @@ p{
     overflow: scroll;
     background-repeat: no-repeat;
     position: relative;
+    background-attachment: fixed;
 }
 #tribute{
     font-size: 50px;
