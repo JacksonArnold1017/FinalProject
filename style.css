@@ -122,9 +122,6 @@ p{
     position: relative;
     background-attachment: fixed;
 }
-#tribute{
-    font-size: 50px;
-}
 
 
 
@@ -136,10 +133,6 @@ p{
     background-attachment: fixed;
     
     
-}
-#forge{
-    width: auto;
-    height: 300px;
 }
 
 section{
